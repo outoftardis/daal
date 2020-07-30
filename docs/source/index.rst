@@ -76,3 +76,4 @@ list of features and documentation is available at |daal-docs|_.
    :caption: Contributing Guide
 
    contribution/coding_guide.rst
+   contribution/documentation.rst
